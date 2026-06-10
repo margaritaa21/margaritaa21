@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Petroleum engineer with a touch of coding
 <!--
 **margaritaa21/margaritaa21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
