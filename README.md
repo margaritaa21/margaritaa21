@@ -22,7 +22,7 @@
 
 <h3 align="center" style="color: #BA68C8;">Contacto</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/tania-rosillo-2bb2792b9/">
+  <a href="https://www.linkedin.com/in/tania-rosillo-2bb2792b9/">
     <img src="https://img.shields.io/badge/LinkedIn-B39DDB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
